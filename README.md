@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm ... from...<br><br>- 🔭 I’m a student...<br>- 📚 I'm currently learning JDBC,Spring framework ...<br>- ⚡ In my free time  listing music ...</p>
+<p align="left">I'm from chennai <br><br>- 🔭 I’m a student...<br>- 📚 I'm currently learning JDBC,Spring framework ...<br>- ⚡ In my free time  listing music ...</p>
 
 ###
 
